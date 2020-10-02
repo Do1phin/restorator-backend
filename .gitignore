@@ -1,0 +1,12 @@
+# Dependency directory
+/node_modules
+/.git
+/dist/
+
+# IDE
+/.idea
+
+# Logs
+logs
+*.log
+npm-debug.log*

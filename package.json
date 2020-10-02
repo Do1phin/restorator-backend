@@ -1,0 +1,8 @@
+{
+  "name": "Restorator-server",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/Do1phin/restorator-server.git",
+  "author": "Do1phin",
+  "license": "MIT"
+}
